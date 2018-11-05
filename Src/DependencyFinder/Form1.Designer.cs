@@ -68,7 +68,7 @@
             this.DependeciesListBox.FormattingEnabled = true;
             this.DependeciesListBox.Location = new System.Drawing.Point(12, 38);
             this.DependeciesListBox.Name = "DependeciesListBox";
-            this.DependeciesListBox.Size = new System.Drawing.Size(635, 394);
+            this.DependeciesListBox.Size = new System.Drawing.Size(858, 394);
             this.DependeciesListBox.TabIndex = 4;
             // 
             // Form1
